@@ -1,1 +1,1 @@
-{"rewrites":[{"source":"/(.*?)","destination":"/index.html"}]}
+{"rewrites":[{"source":"/lifescope","destination":"/lifescope.html"},{"source":"/((?!.*\\.html).*)","destination":"/index.html"}]}{"rewrites":[{"source":"/(.*?)","destination":"/index.html"}]}
